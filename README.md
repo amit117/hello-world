@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My first repository. Now i am commiting it.
